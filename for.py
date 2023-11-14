@@ -12,8 +12,11 @@
 #    print(variavel)
 
 
-soma = 0
 
+# Exemplo de média de notas
+
+
+soma = 0
 
 for i in range(1,4):
   nota = float(input(f'Informe a sua nota {i}:'))
